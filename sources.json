@@ -1,0 +1,19 @@
+[
+	{"source": "app/model/dao.js"},
+    {"source": "app/libraries/ts2k_helpers.js"},
+    {"source": "app/libraries/helper.js"},
+    {"source": "app/assistants/stage-assistant.js"},
+    {"source": "app/utils/admob.js"},
+    {
+        "scenes": "main",
+        "source": "app/assistants/main-assistant.js"
+    },
+    {
+        "scenes": "othercool",
+        "source": "app/assistants/othercool-assistant.js"
+    },
+    {
+        "scenes": "settings",
+        "source": "app/assistants/settings-assistant.js"
+    }
+]

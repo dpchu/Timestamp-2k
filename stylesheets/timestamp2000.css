@@ -1,0 +1,163 @@
+/* TODO: put your application-specific CSS here */
+
+.noscroll_400{
+	height: 400px;
+	width: 320px;
+	padding: 0;
+	margin: 0;
+}
+.noscroll_480{
+	height: 480px;
+	width: 320px;
+	padding: 0;
+	margin: 0;
+}
+.cssCanvas{
+	display: none;
+	position: absolute;
+	left: 0;
+	top: 0;	
+}
+
+div#ts_title{
+	background: url('../images/ts_title.png') no-repeat;
+	height: 50px;
+	width: 320px;
+	border: none 1px #00cc00;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+div#admob_ad{
+	position: absolute;
+	top: 60px;
+	left: 0;
+	width: 320px;
+	padding: 0;
+	margin: 0;
+	display: block;
+	height: 50px;
+}
+div#admob_ad div._AdMobAd{
+	padding: 0 !important;
+}
+div#fasturlpro_ad{
+	position: absolute;
+	top: 60px;
+	left: 0;
+	display: none;
+	height: 50px;
+	width: 320px;
+	background: url('../images/ad_fasturlpro.png') no-repeat;
+}
+div#dts{
+	position: absolute;
+	top: 125px;		 
+	left: 10px;		 
+	height: 50px;
+	padding: 10px 0 0 0;
+	background: url(../images/stampborder.png) no-repeat;
+	text-align: center;
+	 -webkit-transform: scale(1) rotate(3deg);
+	 
+}
+div#ds{
+	position: absolute;
+	top: 190px;
+	right: 10px;
+	padding: 10px 0 0 0;
+	background: url(../images/stampborder.png) no-repeat;
+	height: 50px;
+	clear: both;
+	-webkit-transform: scale(1) rotate(-2deg);
+	
+	text-align: center;
+}
+div#ts{
+	position: absolute;
+	top: 263px;
+	background: url(../images/stampborder.png) no-repeat;
+	height: 50px;	
+	padding: 10px 0 0 0;
+	left: 10px;
+	clear: both;
+	-webkit-transform: scale(1) rotate(4deg);
+	text-align: center;
+}
+div#twentyfour{
+	position: absolute;
+	top: 350px;
+	background: url(../images/stampborder.png) no-repeat;
+	height: 50px;	
+	padding: 3px 0 0 0;
+	left: 10px;
+	clear: both;
+	text-align: center;
+}
+.fontColores{
+	font-size: 25px;
+	font-weight: bold;
+	color: #990000;
+	width: 300px;
+	border: none 1px #009900;
+	
+}
+
+/* othercool */
+div.description{
+	font-size: 14px;
+	padding: 5px;
+}
+div.ocool-description{
+	font-size: 14px;
+	width: 78%;
+	float: left;
+	padding: 3px;
+	border: none 1px #660066;
+}
+div.ocool-preview{
+	width: 20%;
+	float: right;
+	border: none 1px #009900;
+}
+div.ocool-clickbanner{
+	background: #990000; 
+	color: #fff; 
+	font-weight: bold; 
+	font-size: 14px; 
+	font-style: italic; 
+	padding-right: 10px; 
+	text-align: right;
+}
+.othercoolwrap{
+	padding: 0 0 5px 0;
+}
+div.description b{
+	color: #990000;
+}
+div.ocool-description b{
+	color: #990000;
+}
+#theSpinner{
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	
+}
+table.labeled tr td.label{
+	color: #990000;
+}
+.palm-divider.labeled .left{
+	background: url(../images/bg_label.png) top right repeat-x;
+}
+.palm-divider.labeled .right{
+	background: url(../images/bg_label.png) top left repeat-x;
+}
+.left{
+	padding: 50px 0 0 0;
+}
+div.myslash{
+	float: left;
+}

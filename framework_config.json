@@ -1,0 +1,8 @@
+{
+	"logLevel": 0,
+	"debuggingEnabled": true,
+	"timingEnabled": false,
+	"logEvents": false,
+	"escapeHTMLInTemplates" : false
+}
+
